@@ -5,7 +5,7 @@
 
 - 🌴 I'm ZonzeeLi, Chinese name "Zhongze Li".
 - 👨‍💻 Backend development engineer of Golang. 
-- 🏂 Update my blog, organize interview and algorithm.
+- 🏂 Update blog, the interview and algorithm.
 - 🤪 Life is fantastic. Coding every day.
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
