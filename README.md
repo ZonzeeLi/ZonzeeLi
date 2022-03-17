@@ -4,7 +4,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=dbedff，ffeddb&title_color=fff&text_color=fff">
 
 <!--
 **ZonzeeLi/ZonzeeLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
