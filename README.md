@@ -3,12 +3,12 @@
 <!-- 彩色渐变色 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=10,ffcccc,ffffcc,ccffcc,ccffff ,ccccff,ffccff&text_color=0066ff&title_color=0066ff"> 
 
-- 🌴 I'm ZonzeeLi, and my Chinese name "Zhongze Li".
-- 👨‍💻 Now I'm a backend development engineer of Golang. 
-- 🏂 Update my blog, organize interview questions and algorithm questions.
+- 🌴 I'm ZonzeeLi, Chinese name "Zhongze Li".
+- 👨‍💻 Backend development engineer of Golang. 
+- 🏂 Update my blog, organize interview and algorithm.
 - 🤪 Life is fantastic. Coding every day.
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <!-- 天空之境渐变色
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=0,ffd1a3,a3ffff,a3a3ff&text_color=6666ff&title_color=6666ff">
 
