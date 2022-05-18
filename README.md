@@ -8,6 +8,11 @@
 - 🤪 Life is fantastic. Coding every day.
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZonzeeLi/count.svg" />
+</p>
 <!-- 天空之境渐变色
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=0,ffd1a3,a3ffff,a3a3ff&text_color=6666ff&title_color=6666ff">
 
