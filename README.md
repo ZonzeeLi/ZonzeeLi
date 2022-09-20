@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 彩色渐变色 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=10,ffcccc,ffffcc,ccffcc,ccffff ,ccccff,ffccff&text_color=0066ff&title_color=0066ff"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=15,ffcccc,ffffcc,ccffcc,ccffff,ccccff,ffccff&text_color=0066ff&title_color=0066ff" />
 
 - 🌴 I'm ZonzeeLi, Chinese name "Zhongze Li".
 - 👨‍💻 Backend development engineer of Golang. 
@@ -19,7 +19,8 @@
 浅冰淇淋渐变色
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=10,dbedff,ffeddb"> -->
 
-
+彩色渐变色
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=15,ffcccc,ffffcc,ccffcc,ccffff,ccccff,ffccff&text_color=0066ff&title_color=0066ff" />
 
 <!-- 彩色深渐变色
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=5,a8a8ff,ffa8ff,ffa8a8 ,ffffa8,a8ffa8,a8ffff"> 
