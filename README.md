@@ -31,7 +31,7 @@
 嫩肤渐变色
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZonzeeLi&show_icons=true&include_all_commits=true&bg_color=0,ecd6ff,ffd7ea,ffecd6">  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BFFF9&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+ZonzeeLi.;Welcome+to+my+Github+Page.;Wish+you+have+a+nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1BFFF9&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+ZonzeeLi.;Welcome+to+my+Github+Page.;Wish+you+have+a+nice+day!)](https://git.io/typing-svg)
 
 <!--
 **ZonzeeLi/ZonzeeLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
